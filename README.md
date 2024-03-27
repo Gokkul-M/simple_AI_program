@@ -1,1 +1,3 @@
-# simple_AI_program
+# Simple_AI_program
+# Aim :
+To create a simple working AI with an Basic python programming.
